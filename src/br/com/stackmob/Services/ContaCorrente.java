@@ -1,3 +1,6 @@
+package br.com.stackmob.Services;
+import br.com.stackmob.Entity.Cliente;
+import br.com.stackmob.Entity.Conta;
 
 public class ContaCorrente extends Conta {
 

@@ -1,3 +1,4 @@
+package br.com.stackmob.Entity;
 import java.util.List;
 
 public class Banco {

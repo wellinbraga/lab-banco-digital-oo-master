@@ -1,3 +1,5 @@
+package br.com.stackmob.Entity;
+import br.com.stackmob.Services.IConta;
 
 public abstract class Conta implements IConta {
 	

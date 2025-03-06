@@ -1,3 +1,4 @@
+package br.com.stackmob.Services;
 
 public interface IConta {
 	

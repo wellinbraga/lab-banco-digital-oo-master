@@ -1,3 +1,4 @@
+package br.com.stackmob.Entity;
 
 public class Cliente {
 
